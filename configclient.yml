@@ -3,4 +3,4 @@ configuration:
 server:
   port: 8000
 message:
-  greeting: Hello F-232!
+  greeting: Hello KA-01 F-232!
